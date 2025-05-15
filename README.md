@@ -26,3 +26,7 @@ pandoc -t beamer -i /path/to/doc.md -o ./src/index.tex
 ```sh
 tectonic -X build --open
 ```
+
+## Credit
+
+beamer theme: https://github.com/hamaluik/Beamer-Theme-Execushares
